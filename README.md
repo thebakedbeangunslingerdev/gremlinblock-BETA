@@ -22,6 +22,7 @@ profession: minion of bob magic!
 side hustle: flipping burgers! 4500$
 
 profiles: stupid-user1
+all i need to put here is "slob" and "programmer"
 
 put this in html viewer/vscode and run it!
 
@@ -34,7 +35,7 @@ make your own version!
 but! only make it codenames!
 
 otherwise....
-all i need to put here is "slob" and "programmer"
+
 
 
 
