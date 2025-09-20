@@ -23,6 +23,17 @@ side hustle: flipping burgers! 4500$
 
 profiles: stupid-user1
 
+put this in html viewer/vscode and run it!
+
+
+INFO: this is fully open-source, because this is github! 
+
+make your own version!
+
+
+but! only make it codenames!
+
+otherwise....
 all i need to put here is "slob" and "programmer"
 
 
